@@ -9,7 +9,7 @@
  <br/> 
  📕 Cursando 6º período em **Análise e Desenvolvimento de Sistemas**
  
- <br/>  <br/> 
+ <br/> <br/> <br/> <br/> 
  
  ### Perfil Github 👇
  <div style="display: flex; flex-direction: row;">
