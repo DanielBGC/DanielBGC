@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computer">
 
-<p>Desenvolvedor curioso e estudante de Tecnologia da Informação.<br>
+<p>Desenvolvedor Web FullStack, muito curioso e apaixonado pela área <br>
 
- 💻 Trabalhando atualmente na **Bravo - Serviços Logísticos**
+ 💻 Trabalhando atualmente como desenvolvedor na **Bravo - Serviços Logísticos**
  <br/> 
  📕 Ensino superior Completo em **Análise e Desenvolvimento de Sistemas**
  <br/> 
