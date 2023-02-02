@@ -4,13 +4,12 @@
 
 <p>Desenvolvedor curioso e estudante de Tecnologia da Informação.<br>
 
- ### Atualmente 👇
- 💻 Trabalhando na **Bravo - Serviços Logísticos**
+ 💻 Trabalhando atualmente na **Bravo - Serviços Logísticos**
  <br/> 
- 📕 Cursando 6º período em **Análise e Desenvolvimento de Sistemas**
- 
- <br/> <br/> <br/> <br/> 
- 
+ 📕 Ensino superior Completo em **Análise e Desenvolvimento de Sistemas**
+ <br/> 
+ ### [LinkedIn](https://www.linkedin.com/in/danielbgc/)
+
  ### Perfil Github 👇
  <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/danielbgc">
